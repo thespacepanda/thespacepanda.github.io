@@ -1,0 +1,1 @@
+{"version":3,"sources":["spacepanda/app.cljs"],"mappings":";AAEA,AAAA,AAAMA;AAAN,AACE,AAAA,AAACC","names":["spacepanda.app/init","cljs.core.println"],"sourcesContent":["(ns spacepanda.app)\n\n(defn init []\n  (println \"Hello World\"))\n"]}
